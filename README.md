@@ -1,14 +1,14 @@
 # [extensible-search](https://github.com/nglasl)
 
+	A module for SilverStripe which will allow user customisation and developer extension of a search page instance.
+
+	This will allow CMS authors to configure the search page and results without needing to perform code alterations to determine how the search works.
+
 _**NOTE:** This repository has been pulled together using re-factored code from an existing module._
 
 :bust_in_silhouette:
 
 https://github.com/nyeholt/silverstripe-solr
-
-	A module for SilverStripe which will allow user customisation and developer extension of a search page instance.
-
-	This will allow CMS authors to configure the search page and results without needing to perform code alterations to determine how the search works.
 
 ## Requirement
 
